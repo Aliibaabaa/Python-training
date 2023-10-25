@@ -1,0 +1,6 @@
+lists -- ordered sequence
+
+dictionary -- unordered  sequence
+        -- similar to array
+        -- have unique keys
+
